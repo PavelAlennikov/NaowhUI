@@ -25,4 +25,4 @@ jobs:
       - name: Package and release
         uses: BigWigsMods/packager@master
         with:
-          args: -p  -a 
+          args: -p 1273960 -a n6VPvLGd
